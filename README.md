@@ -1,5 +1,6 @@
 <h1 align="center"> 
-  <img width="150px" src="https://user-images.githubusercontent.com/80908772/194682213-90fe28ca-5203-40fc-be8d-7981eace7da6.png"/>
+  
+  <img src="https://user-images.githubusercontent.com/80908772/194682212-63916ade-856b-4453-b33e-e867b9b97c94.png"/>
 </h1>
 <br/>
 
@@ -14,7 +15,7 @@ To Do List is a web application to create, conclude and delete tasks. This proje
 
 ## :camera: ScreenShots
 <h1 aling="center">
-  <img style="margin-top:100px;" src="https://user-images.githubusercontent.com/80908772/194682212-63916ade-856b-4453-b33e-e867b9b97c94.png"/>
+  <img  src="https://user-images.githubusercontent.com/80908772/194682213-90fe28ca-5203-40fc-be8d-7981eace7da6.png"/>
 </h1>
 <br/>
 <a href='#top'>
